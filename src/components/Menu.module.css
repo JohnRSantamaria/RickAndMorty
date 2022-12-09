@@ -1,0 +1,17 @@
+.list > *{
+    text-decoration: none;
+    padding: 2rem;
+    font-size: 1.5rem;
+    color: green;
+    font-weight: 600;    
+
+}
+
+.isActive{
+    transition: all 0.5 ease;
+    font-weight: 900;
+    text-decoration: underline;
+
+}    
+
+
